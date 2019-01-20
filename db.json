@@ -74,73 +74,8 @@
                                                     "Clientcommand": 0,
                                                     "ValidFileExtensions": null,
                                                     "DropDownValues": []
-                                                },
-                                                {
-                                                    "Key": "EnergyMeterSerial",
-                                                    "PrefillValue": "0123456789",
-                                                    "Label": "Numero seriale contatore energia",
-                                                    "ToolTip": "Numero seriale contatore energia",
-                                                    "InputType": 0,
-                                                    "ValidationRegex": null,
-                                                    "Clientcommand": 0,
-                                                    "ValidFileExtensions": null,
-                                                    "DropDownValues": []
-                                                },
-                                                {
-                                                    "Key": "EnergyMeterSimNumber",
-                                                    "PrefillValue": "0123456789",
-                                                    "Label": "Numero SIM",
-                                                    "ToolTip": "Numero SIM",
-                                                    "InputType": 0,
-                                                    "ValidationRegex": null,
-                                                    "Clientcommand": 0,
-                                                    "ValidFileExtensions": null,
-                                                    "DropDownValues": []
-                                                },
-                                                {
-                                                    "Key": "EnergyMeterPwd",
-                                                    "PrefillValue": "ABCDEFGHI",
-                                                    "Label": "Password contatore energia",
-                                                    "ToolTip": "Password contatore energia",
-                                                    "InputType": 0,
-                                                    "ValidationRegex": null,
-                                                    "Clientcommand": 0,
-                                                    "ValidFileExtensions": null,
-                                                    "DropDownValues": []
-                                                },
-                                                {
-                                                    "Key": "EnergyMeterVendor",
-                                                    "PrefillValue": "ACME",
-                                                    "Label": "Produttore contatore energia",
-                                                    "ToolTip": "Produttore contatore energia",
-                                                    "InputType": 0,
-                                                    "ValidationRegex": null,
-                                                    "Clientcommand": 0,
-                                                    "ValidFileExtensions": null,
-                                                    "DropDownValues": []
-                                                },
-                                                {
-                                                    "Key": "EnergyMeterModel",
-                                                    "PrefillValue": "Modello123",
-                                                    "Label": "Modello contatore energia",
-                                                    "ToolTip": "Modello contatore energia",
-                                                    "InputType": 0,
-                                                    "ValidationRegex": null,
-                                                    "Clientcommand": 0,
-                                                    "ValidFileExtensions": null,
-                                                    "DropDownValues": []
-                                                },
-                                                {
-                                                    "Key": "EnergyMeterConst",
-                                                    "PrefillValue": "10",
-                                                    "Label": "Fattore di conversione contatore energia",
-                                                    "ToolTip": "Fattore di conversione contatore energia",
-                                                    "InputType": 0,
-                                                    "ValidationRegex": null,
-                                                    "Clientcommand": 0,
-                                                    "ValidFileExtensions": null,
-                                                    "DropDownValues": []
                                                 }
+                                                
                                             ],
                                             "OkLabel": "Salva",
                                             "CancelLabel": "Annulla",
