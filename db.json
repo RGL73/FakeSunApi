@@ -31,39 +31,6 @@
                                                     "DropDownValues": []
                                                 },
                                                 {
-                                                    "Key": "POD",
-                                                    "PrefillValue": "IT001A12345678",
-                                                    "Label": "POD",
-                                                    "ToolTip": "POD",
-                                                    "InputType": 7,
-                                                    "ValidationRegex": null,
-                                                    "Clientcommand": 0,
-                                                    "ValidFileExtensions": null,
-                                                    "DropDownValues": []
-                                                },
-                                                {
-                                                    "Key": "PowerTso",
-                                                    "PrefillValue": "80",
-                                                    "Label": "PowerTso",
-                                                    "ToolTip": "PowerTso",
-                                                    "InputType": 7,
-                                                    "ValidationRegex": null,
-                                                    "Clientcommand": 0,
-                                                    "ValidFileExtensions": null,
-                                                    "DropDownValues": []
-                                                },
-                                                {
-                                                    "Key": null,
-                                                    "PrefillValue": null,
-                                                    "Label": null,
-                                                    "ToolTip": null,
-                                                    "InputType": 1000,
-                                                    "ValidationRegex": null,
-                                                    "Clientcommand": 0,
-                                                    "ValidFileExtensions": null,
-                                                    "DropDownValues": []
-                                                },
-                                                {
                                                     "Key": "Map",
                                                     "PrefillValue": "44.415432, 8.934866; 44.415438, 8.934869",
                                                     "Label": "Selezionare area impianto",
@@ -96,103 +63,7 @@
                                                     "ValidFileExtensions": null,
                                                     "DropDownValues": []
                                                 },
-                                                {
-                                                    "Key": "Province",
-                                                    "PrefillValue": "RM",
-                                                    "Label": "Provincia",
-                                                    "ToolTip": "Provincia",
-                                                    "InputType": 0,
-                                                    "ValidationRegex": null,
-                                                    "Clientcommand": 0,
-                                                    "ValidFileExtensions": null,
-                                                    "DropDownValues": []
-                                                },
-                                                {
-                                                    "Key": "ZIP",
-                                                    "PrefillValue": "00195",
-                                                    "Label": "CAP",
-                                                    "ToolTip": "CAP",
-                                                    "InputType": 0,
-                                                    "ValidationRegex": null,
-                                                    "Clientcommand": 0,
-                                                    "ValidFileExtensions": null,
-                                                    "DropDownValues": []
-                                                },
-                                                {
-                                                    "Key": "Country",
-                                                    "PrefillValue": "IT",
-                                                    "Label": "Stato",
-                                                    "ToolTip": "Stato",
-                                                    "InputType": 0,
-                                                    "ValidationRegex": null,
-                                                    "Clientcommand": 0,
-                                                    "ValidFileExtensions": null,
-                                                    "DropDownValues": []
-                                                },
-                                                {
-                                                    "Key": "Email",
-                                                    "PrefillValue": "mario.rossi@mydomain.com",
-                                                    "Label": "Email",
-                                                    "ToolTip": "Email",
-                                                    "InputType": 0,
-                                                    "ValidationRegex": null,
-                                                    "Clientcommand": 0,
-                                                    "ValidFileExtensions": null,
-                                                    "DropDownValues": []
-                                                },
-                                                {
-                                                    "Key": "Phone",
-                                                    "PrefillValue": "+39 02 01234567",
-                                                    "Label": "Telefono",
-                                                    "ToolTip": "Telefono",
-                                                    "InputType": 0,
-                                                    "ValidationRegex": null,
-                                                    "Clientcommand": 0,
-                                                    "ValidFileExtensions": null,
-                                                    "DropDownValues": []
-                                                },
-                                                {
-                                                    "Key": null,
-                                                    "PrefillValue": null,
-                                                    "Label": null,
-                                                    "ToolTip": null,
-                                                    "InputType": 1000,
-                                                    "ValidationRegex": null,
-                                                    "Clientcommand": 0,
-                                                    "ValidFileExtensions": null,
-                                                    "DropDownValues": []
-                                                },
-                                                {
-                                                    "Key": "TrackingType",
-                                                    "PrefillValue": "NO",
-                                                    "Label": "Inseguitore solare",
-                                                    "ToolTip": "Inseguitore solare",
-                                                    "InputType": 2,
-                                                    "ValidationRegex": null,
-                                                    "Clientcommand": 0,
-                                                    "ValidFileExtensions": null,
-                                                    "DropDownValues": [
-                                                        {
-                                                            "Key": "Yes",
-                                                            "Label": "Sì"
-                                                        },
-                                                        {
-                                                            "Key": "No",
-                                                            "Label": "No"
-                                                        }
-                                                    ]
-                                                },
-                                                {
-                                                    "Key": "PanelTilt",
-                                                    "PrefillValue": null,
-                                                    "Label": "Angolo tilt pannello",
-                                                    "ToolTip": "Angolo tilt pannello",
-                                                    "InputType": 0,
-                                                    "ValidationRegex": null,
-                                                    "Clientcommand": 0,
-                                                    "ValidFileExtensions": null,
-                                                    "DropDownValues": []
-                                                },
+                                                
                                                 {
                                                     "Key": null,
                                                     "PrefillValue": null,
