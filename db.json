@@ -64,17 +64,7 @@
                                                     "DropDownValues": []
                                                 },
                                                 
-                                                {
-                                                    "Key": null,
-                                                    "PrefillValue": null,
-                                                    "Label": null,
-                                                    "ToolTip": null,
-                                                    "InputType": 1000,
-                                                    "ValidationRegex": null,
-                                                    "Clientcommand": 0,
-                                                    "ValidFileExtensions": null,
-                                                    "DropDownValues": []
-                                                },
+                                                
                                                 {
                                                     "Key": "EnergyMeterSerial",
                                                     "PrefillValue": "0123456789",
@@ -124,17 +114,6 @@
                                                     "PrefillValue": "Modello123",
                                                     "Label": "Modello contatore energia",
                                                     "ToolTip": "Modello contatore energia",
-                                                    "InputType": 0,
-                                                    "ValidationRegex": null,
-                                                    "Clientcommand": 0,
-                                                    "ValidFileExtensions": null,
-                                                    "DropDownValues": []
-                                                },
-                                                {
-                                                    "Key": "EnergyMeterConst",
-                                                    "PrefillValue": "10",
-                                                    "Label": "Fattore di conversione contatore energia",
-                                                    "ToolTip": "Fattore di conversione contatore energia",
                                                     "InputType": 0,
                                                     "ValidationRegex": null,
                                                     "Clientcommand": 0,
